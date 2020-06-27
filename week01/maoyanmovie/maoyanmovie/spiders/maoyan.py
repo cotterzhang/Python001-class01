@@ -9,3 +9,4 @@ class MaoyanSpider(scrapy.Spider):
 
     def parse(self, response):
         pass
+
